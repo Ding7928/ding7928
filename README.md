@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Susie Liu</h1>
-<h3 align="center">I am Passionate about AI's Potential in Healthcare 
+<h3 align="center">I am passionate about AI's Potential in Healthcare 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ding7928](https://github.com/Ding7928)
 
