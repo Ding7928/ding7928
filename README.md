@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ding7928&label=Profile%20views&color=0e75b6&style=flat" alt="ding7928" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ding7928" alt="ding7928" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Ding7928](https://github.com/Ding7928)
 
 - 📫 How to reach me **susie7928708@gmail.com**
